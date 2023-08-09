@@ -13,6 +13,7 @@ I am talented in art, so I am an artist. Besides having art skills, I also have 
 
 ## Work Achievements
 July 2023 - Have been featured in Staff section in the Santa Cruz Valley National Heritage Alliance.
+https://mailchi.mp/santacruzheritage/your-august-national-heritage-area-news?e=9a0e8104d0
 https://santacruzheritage.org/board-of-directors/
 ![image](https://github.com/SMarbella/SMarbella/assets/92709384/bc8e1258-a1d5-4be9-b563-6fe3848a94f4)
 
