@@ -7,6 +7,8 @@
 ## 🌱 I’m currently learning
 - Data mining
 - R libraries
+- Kotin programming language for Android mobile devices
+- Swift programming language for iOS mobile devices
 
 ## ⚡ Fun fact:
 I am talented in art, so I am an artist. Besides having art skills, I also have multiple disciplines in technology, such as data analysis, mobile app development, and computer programming.
