@@ -4,6 +4,9 @@
 - A diabetes prediction data mining project on indigenous Pima women living near Phoenix, Arizona (https://github.com/SMarbella/Diabetes-Prediction)
 - Adding final touches to Kotlin Widgets Station (https://github.com/SMarbella/and101-project2-starter)
 
+## 📄 Finished Work
+- Please view repository
+
 ## 🌱 I’m currently learning
 - Data mining
 - R libraries
