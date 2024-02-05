@@ -23,8 +23,7 @@ December 2023 - Became a Heritage Ambassador at the Santa Cruz Valley National H
 https://santacruzheritage.org/heritage-ambassadors/
 
 July 2023 - Have been featured in Staff section in the Santa Cruz Valley National Heritage Alliance.
-https://mailchi.mp/santacruzheritage/your-august-national-heritage-area-news?e=9a0e8104d0
-![image](https://github.com/SMarbella/SMarbella/assets/92709384/bc8e1258-a1d5-4be9-b563-6fe3848a94f4)
+[![image](https://github.com/SMarbella/SMarbella/assets/92709384/bc8e1258-a1d5-4be9-b563-6fe3848a94f4)](https://mailchi.mp/santacruzheritage/your-august-national-heritage-area-news?e=9a0e8104d0)
 
 <!--
 **SMarbella/SMarbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
