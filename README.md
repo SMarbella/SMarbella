@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ## 🔭 I’m currently working on
-- A diabetes prediction data mining project on indigenous Pima women living near Phoenix, Arizona (https://github.com/SMarbella/Diabetes-Prediction)
-- Adding final touches to Kotlin Widgets Station (https://github.com/SMarbella/and101-project2-starter)
+- A machine learning project that predicts the miles per gallon of different automobiles based on meaningful patterns and correlations between mpg and other features of the vehicles.
 
 ## 📄 Finished Work
 - Please view repository
@@ -10,13 +9,17 @@
 ## 🌱 I’m currently learning
 - Data mining
 - R libraries
-- Kotin programming language for Android mobile devices
+- Kotlin programming language for Android mobile devices
 - Swift programming language for iOS mobile devices
+- Machine learning
+- Data analysis techniques
 
 ## ⚡ Fun fact:
-I am talented in art, so I am an artist. Besides having art skills, I also have multiple disciplines in technology, such as data analysis, mobile app development, and computer programming.
+I am talented in art, so I am an artist. Besides having art skills, I also have multiple disciplines in technology, such as data analysis, data visualization, machine learning, database development and management, web development, mobile app development, and computer programming.
 
 ## Work Achievements
+December 2023 - Became a Heritage Ambassador at the Santa Cruz Valley National Heritage Alliance for outstanding performance during internship.
+https://santacruzheritage.org/heritage-ambassadors/
 July 2023 - Have been featured in Staff section in the Santa Cruz Valley National Heritage Alliance.
 https://mailchi.mp/santacruzheritage/your-august-national-heritage-area-news?e=9a0e8104d0
 https://santacruzheritage.org/board-of-directors/
