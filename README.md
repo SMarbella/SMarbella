@@ -8,6 +8,7 @@
 - Please view my repository
 
 ## 🌱 I’m currently learning
+- MySQL
 - Machine learning
 - Data mining
 - Data analysis techniques
