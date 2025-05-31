@@ -1,7 +1,7 @@
 ### Greetings! 👋
 
 ## 🔭 I’m currently working on
-- A search engine website
+- A search engine website.
 - Developing easy-to-understand data models for a small business that helps them keep track of its employees, departments, the classes its employees are taking, and the trainers teaching each class.
 
 ## 📄 Finished Work
