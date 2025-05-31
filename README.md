@@ -7,7 +7,7 @@
 ## 📄 Finished Work
 - Please view my repository
 
-## 🌱 I’m currently learning
+## 💡 Skills
 - MySQL
 - Machine learning
 - Data mining
@@ -15,6 +15,9 @@
 - R libraries
 - Kotlin programming language for Android mobile devices
 - Swift programming language for iOS mobile devices
+
+## 🌱 I’m currently learning
+- Web design and implementation
 
 ## ⚡ Fun fact:
 I am a talented artist. Drawing and painting realistic Renaissance-style classical artworks are some of my side hobbies. Besides having art skills, I also have multiple disciplines in technology, such as data analysis, data visualization, machine learning, database development and management, web development, mobile app development, and computer programming.
