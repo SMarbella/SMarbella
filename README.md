@@ -1,7 +1,7 @@
-### Hi there 👋
+### Greetings! 👋
 
 ## 🔭 I’m currently working on
-- A machine learning project that predicts the miles per gallon of different automobiles based on meaningful patterns and correlations between mpg and other features of the vehicles.
+- A search engine website
 - Developing easy-to-understand data models for a small business that helps them keep track of its employees, departments, the classes its employees are taking, and the trainers teaching each class.
 
 ## 📄 Finished Work
