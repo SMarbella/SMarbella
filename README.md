@@ -6,6 +6,7 @@
 
 ## 📄 Finished Work
 - Please view my repository
+- List of PowerPoint Slides: https://drive.google.com/drive/u/1/folders/1R63in7HEXTmYr-6sDlF5xdI6CFx2Lg1x
 
 ## 💡 Skills
 - MySQL
@@ -24,6 +25,7 @@
 ## 🌱 I’m currently learning
 - Web design and implementation
 - AI integration into the Internet of Things
+- Natural language processing
 
 ## ⚡ Fun fact:
 I am a talented artist. Drawing and painting realistic Renaissance-style classical artworks are some of my side hobbies. Besides having art skills, I also have multiple disciplines in technology, such as data analysis, data visualization, machine learning, database development and management, web development, mobile app development, and computer programming.
