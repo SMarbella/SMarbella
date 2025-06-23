@@ -7,6 +7,7 @@
 ## 📄 Finished Work
 - Please view my repository
 - List of PowerPoint Slides: https://drive.google.com/drive/u/1/folders/1R63in7HEXTmYr-6sDlF5xdI6CFx2Lg1x
+- Writing Samples: https://drive.google.com/drive/u/1/folders/1smr6l3FuRMeUPn9Kqi2aaDUaAqEhicJm
 
 ## 💡 Skills
 - MySQL
