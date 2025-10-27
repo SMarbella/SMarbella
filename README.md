@@ -28,6 +28,7 @@ Pursuing a career in university-level academic field. 🎓📚📖🏫🍎👨�
 - Data mining
 - Data analysis techniques
 - Data visualization
+- Complex data dashboards creation
 - Artificial intelligence and human interaction
 - Artificial intelligence as a tool
 - R libraries
@@ -38,6 +39,7 @@ Pursuing a career in university-level academic field. 🎓📚📖🏫🍎👨�
 - Web design and implementation
 - AI integration into the Internet of Things
 - Natural language processing
+- Neural networks
 
 ## ⚡ Fun fact:
 I am a talented artist. Drawing and painting realistic Renaissance-style classical artworks are some of my side hobbies. Besides having art skills, I also have multiple disciplines in technology, such as data analysis, data visualization, machine learning, database development and management, web development, mobile app development, and computer programming.
@@ -54,7 +56,8 @@ July 2023 - Have been featured in Staff section in the Santa Cruz Valley Nationa
 - Information science
 - Artificial intelligence
 - Internet of things
-- 
+- Machine learning
+- Neural networks
 <!--
 **SMarbella/SMarbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
