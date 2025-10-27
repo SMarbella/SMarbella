@@ -1,17 +1,28 @@
 ### Greetings! 👋
-Pursuing a career in university-level academic field. 🎓📚📖🏫🍎👨‍🏫👩‍🏫🍏
+Pursuing a career in university-level academic field. 👩🏻‍🏫🍎📚🍏🎓
+
+## 💬 Ask me about
+- Data science 📊
+- Information science 📖
+- Artificial intelligence 🤖
+- Internet of things 📳
+- Machine learning 🧩
+- Neural networks 🧠
 
 ## 🔭 I’m currently working on
-- A search engine website.
-- Developing easy-to-understand data models for a small business that helps them keep track of its employees, departments, the classes its employees are taking, and the trainers teaching each class.
+- 🔎 A search engine website.
+- Complex data dashboards. 📊
+- Developing easy-to-understand data models for a small business that help them keep track of its employees, departments, the classes its employees are taking, and the trainers teaching each class. 📈
+- Collaborating in university-level research with professors. 💡
 
 ## 👯 I’m looking to collaborate on
 - Research involving:
-- - Data science
-  - Data analysis
-  - Data visualization
-  - Machine learning
-  - Artificial intelligence
+- - Data science 📊
+  - Information science 📖
+  - Data analysis 🧠
+  - Data visualization 💹
+  - Machine learning 🧩
+  - Artificial intelligence 🤖
 
 ## 📄 Finished Work
 - Please view my repository
@@ -21,19 +32,19 @@ Pursuing a career in university-level academic field. 🎓📚📖🏫🍎👨�
 ## 💡 Skills
 - MySQL
 - R
-- Python
-- Snowflake
-- Cloud computing in Microsoft Azure, Amazon Web Services (AWS), Google Cloud, and University of Arizona HPC Systems Cloud powered by OnDemand
-- Machine learning
+- Python 🐍
+- Snowflake ❄
+- Cloud computing in Microsoft Azure, Amazon Web Services (AWS), Google Cloud, and University of Arizona HPC Systems Cloud powered by OnDemand 🌧
+- Machine learning 🧩
 - Data mining
 - Data analysis techniques
 - Data visualization
 - Complex data dashboards creation
-- Artificial intelligence and human interaction
-- Artificial intelligence as a tool
+- Artificial intelligence and human interaction 🧩
+- Artificial intelligence as a tool 🤖💬
 - R libraries
-- Kotlin programming language for Android mobile devices
-- Swift programming language for iOS mobile devices
+- Kotlin programming language for Android mobile devices 📱
+- Swift programming language for iOS mobile devices 📱
 
 ## 🌱 I’m currently learning
 - Web design and implementation
@@ -50,14 +61,6 @@ December 2023 - Became a Heritage Ambassador at the Santa Cruz Valley National H
 
 July 2023 - Have been featured in Staff section in the Santa Cruz Valley National Heritage Alliance.
 [![image](https://github.com/SMarbella/SMarbella/assets/92709384/bc8e1258-a1d5-4be9-b563-6fe3848a94f4)](https://mailchi.mp/santacruzheritage/your-august-national-heritage-area-news?e=9a0e8104d0)
-
-## 💬 Ask me about
-- Data science
-- Information science
-- Artificial intelligence
-- Internet of things
-- Machine learning
-- Neural networks
 <!--
 **SMarbella/SMarbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
