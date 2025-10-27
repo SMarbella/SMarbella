@@ -1,8 +1,17 @@
 ### Greetings! 👋
+Pursuing a career in university-level academic field. 🎓📚📖🏫🍎👨‍🏫👩‍🏫🍏
 
 ## 🔭 I’m currently working on
 - A search engine website.
 - Developing easy-to-understand data models for a small business that helps them keep track of its employees, departments, the classes its employees are taking, and the trainers teaching each class.
+
+## 👯 I’m looking to collaborate on
+- Research involving:
+- - Data science
+  - Data analysis
+  - Data visualization
+  - Machine learning
+  - Artificial intelligence
 
 ## 📄 Finished Work
 - Please view my repository
@@ -14,11 +23,13 @@
 - R
 - Python
 - Snowflake
-- Cloud computing in Microsoft Azure, Amazon Web Services (AWS), and Google Cloud
+- Cloud computing in Microsoft Azure, Amazon Web Services (AWS), Google Cloud, and University of Arizona HPC Systems Cloud powered by OnDemand
 - Machine learning
 - Data mining
 - Data analysis techniques
 - Data visualization
+- Artificial intelligence and human interaction
+- Artificial intelligence as a tool
 - R libraries
 - Kotlin programming language for Android mobile devices
 - Swift programming language for iOS mobile devices
@@ -38,6 +49,12 @@ December 2023 - Became a Heritage Ambassador at the Santa Cruz Valley National H
 July 2023 - Have been featured in Staff section in the Santa Cruz Valley National Heritage Alliance.
 [![image](https://github.com/SMarbella/SMarbella/assets/92709384/bc8e1258-a1d5-4be9-b563-6fe3848a94f4)](https://mailchi.mp/santacruzheritage/your-august-national-heritage-area-news?e=9a0e8104d0)
 
+## 💬 Ask me about
+- Data science
+- Information science
+- Artificial intelligence
+- Internet of things
+- 
 <!--
 **SMarbella/SMarbella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
