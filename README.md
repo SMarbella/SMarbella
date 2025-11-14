@@ -8,6 +8,8 @@ Pursuing a career in university-level academic field. 👩🏻‍🏫🍎📚�
 - Internet of things 📳
 - Machine learning 🧩
 - Neural networks 🧠
+- Deep learning
+- Human/computer/AI/machine interaction with data/information
 
 ## 🔭 I’m currently working on
 - 🔎 A search engine website.
