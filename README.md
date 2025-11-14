@@ -8,7 +8,7 @@ Pursuing a career in university-level academic field. 👩🏻‍🏫🍎📚�
 - Internet of things 📳
 - Machine learning 🧩
 - Neural networks 🧠
-- Deep learning
+- Deep learning 🧠
 - Human/computer/AI/machine interaction with data/information
 
 ## 🔭 I’m currently working on
@@ -25,6 +25,7 @@ Pursuing a career in university-level academic field. 👩🏻‍🏫🍎📚�
   - Data visualization 💹
   - Machine learning 🧩
   - Artificial intelligence 🤖
+- - Deep learning 🧠
 
 ## 📄 Finished Work
 - Please view my repository
