@@ -25,7 +25,7 @@ Pursuing a career in university-level academic field. 👩🏻‍🏫🍎📚�
   - Data visualization 💹
   - Machine learning 🧩
   - Artificial intelligence 🤖
-- - Deep learning 🧠
+  - Deep learning 🧠
 
 ## 📄 Finished Work
 - Please view my repository
@@ -57,6 +57,8 @@ Pursuing a career in university-level academic field. 👩🏻‍🏫🍎📚�
 
 ## ⚡ Fun fact:
 I am a talented artist. Drawing and painting realistic Renaissance-style classical artworks are some of my side hobbies. Besides having art skills, I also have multiple disciplines in technology, such as data analysis, data visualization, machine learning, database development and management, web development, mobile app development, and computer programming.
+
+I take care of [!rock doves](https://docs.google.com/document/d/18FNKBsj1AfHFtsnJpwcA-BXx1tIc52sCHk_UMdFUDRU/edit?usp=drivesdk).
 
 ## Work Achievements
 December 2023 - Became a Heritage Ambassador at the Santa Cruz Valley National Heritage Alliance for outstanding performance during internship.
