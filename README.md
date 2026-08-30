@@ -1,6 +1,9 @@
 ### Greetings! 👋
 Pursuing a career in university-level academic field. 👩🏻‍🏫🍎📚🍏🎓
 
+## 📃 Resume
+https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FSMarbella%2FSMarbella%2Frefs%2Fheads%2Fmain%2FStephanie%2520Marbella%2520Resume%2520Shortened.docx&wdOrigin=BROWSELINK
+
 ## 💬 Ask me about
 - Data science 📊
 - Information science 📖
